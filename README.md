@@ -4,4 +4,11 @@
   - [zenn scrap](https://zenn.dev/hiroto_ohira/scraps/f6e629443ae6c2)
 - https://developer.apple.com/tutorials/app-dev-training
 
+# Sub projects
+
+- Chapter1. SiwftUI Essentials
+  - Creating and Combining Views 
+    - [Landmarks](https://github.com/HirotoOhria/ios-app-tutorial-Landmarks)
+  - Building Lists and Navigation 
+  - Handing User Input
 
